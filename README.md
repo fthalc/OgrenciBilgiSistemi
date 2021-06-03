@@ -1,11 +1,18 @@
 # OgrenciBilgiSistemi
 https://github.com/YusufCaglarAksoy
+
 https://github.com/gizem-ucar
+
 https://github.com/ucercagatay
+
 https://github.com/AliMrtB
+
 https://github.com/kadirarsln
+
 https://github.com/tuncayforma
+
 https://github.com/berkgulsen
+
 https://github.com/KarciSerhat
 
 Bu proje , ekibimiz ile çok kısa bir sürede geliştirildi. Okul proje ödevi olarak verildi. Biz bu projeyi elimzden geldiğince SOLID, AOP ,OOP,IoC gibi geliştirme tekniklerine
