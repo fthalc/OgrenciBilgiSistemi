@@ -13,3 +13,6 @@ bağlı kaldık. Temiz kod yazmaya çalıştık. Hatalarımız olabilir bu konud
 
 This project was developed in a very short time with our team. Given as a school project assignment. We use this project to develop techniques such as SOLID, AOP, OOP, IoC as 
 much as we can. We are connected. We tried to write clean code. We may have mistakes, if you want to help with this, just send an e-mail.
+
+![image](https://user-images.githubusercontent.com/57556334/120636655-8c105e00-c476-11eb-9ee7-8f4eb74d0430.png)
+
