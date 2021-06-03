@@ -16,3 +16,12 @@ much as we can. We are connected. We tried to write clean code. We may have mist
 
 ![image](https://user-images.githubusercontent.com/57556334/120636655-8c105e00-c476-11eb-9ee7-8f4eb74d0430.png)
 
+![image](https://user-images.githubusercontent.com/57556334/120636792-bd892980-c476-11eb-8e12-6a7bad7270cd.png)
+
+![image](https://user-images.githubusercontent.com/57556334/120637044-15c02b80-c477-11eb-9b5e-600e8e357368.png)
+
+![image](https://user-images.githubusercontent.com/57556334/120637156-338d9080-c477-11eb-8e00-802dc082251c.png)
+
+![image](https://user-images.githubusercontent.com/57556334/120636869-dc87bb80-c476-11eb-912a-49d1657e5bb9.png)
+
+![image](https://user-images.githubusercontent.com/57556334/120637101-24a6de00-c477-11eb-9aaf-05e3b7d5e89f.png)
